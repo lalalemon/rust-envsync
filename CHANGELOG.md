@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-18
+
+- wip: error reporting module skeleton
+
 ## 2026-05-16
 
 - feat: basic merge strategies functionality
