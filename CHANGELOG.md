@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-19
+
+- feat: implement .env parsing interface
+
 ## 2026-05-18
 
 - wip: error reporting module skeleton
