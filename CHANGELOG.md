@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-20
+
+- chore: add project configuration
+
 ## 2026-05-19
 
 - feat: implement .env parsing interface
