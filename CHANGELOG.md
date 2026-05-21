@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-21
+
+- feat: basic validation rules functionality
+
 ## 2026-05-20
 
 - chore: add project configuration
