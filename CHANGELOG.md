@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-28
+
+- refactor: restructure validation rules module
+
 ## 2026-05-26
 
 - refactor: restructure merge strategies module
