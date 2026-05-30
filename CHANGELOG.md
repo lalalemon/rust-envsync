@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-30
+
+- feat: error handling for error reporting
+
 ## 2026-05-28
 
 - refactor: restructure validation rules module
