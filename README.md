@@ -196,3 +196,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 <!-- history: 2026-05-26 -->
 
 <!-- history: 2026-05-28 -->
+
+<!-- history: 2026-05-31 -->

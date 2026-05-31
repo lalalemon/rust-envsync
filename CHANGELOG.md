@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-31
+
+- refactor: restructure .env parsing module
+
 ## 2026-05-30
 
 - feat: error handling for error reporting
