@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-01
+
+- feat: add logging and diagnostics
+
 ## 2026-05-31
 
 - refactor: restructure .env parsing module
