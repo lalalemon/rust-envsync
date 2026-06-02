@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-02
+
+- chore: update dependencies
+
 ## 2026-06-01
 
 - feat: add logging and diagnostics
