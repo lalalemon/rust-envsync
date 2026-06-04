@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-04
+
+- chore: add CI configuration
+
 ## 2026-06-03
 
 - feat: add logging and diagnostics
