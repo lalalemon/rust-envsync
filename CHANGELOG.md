@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-05
+
+- fix: minor bug fixes
+
 ## 2026-06-04
 
 - chore: add CI configuration
