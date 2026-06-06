@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-06
+
+- fix: handle edge case in CLI arguments
+
 ## 2026-06-05
 
 - fix: minor bug fixes
