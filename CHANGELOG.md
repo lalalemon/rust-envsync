@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-07
+
+- docs: add API documentation
+
 ## 2026-06-06
 
 - fix: handle edge case in CLI arguments
