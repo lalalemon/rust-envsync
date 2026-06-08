@@ -1,0 +1,11 @@
+[package]
+name = "envsync"
+version = "0.1.0"
+edition = "2021"
+description = "CLI tool to sync .env files across environments with diffing and validation"
+license = "MIT"
+repository = "https://github.com/lalalemon/rust-envsync"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+colored = "2"
